@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @joeymercia
-- 👀 I’m interested in web development and design, front and back-end.
-- 🌱 I’m currently using html,css, & javascript.
-- 💞️ I’m looking to collaborate on any projects that could help me advance my skills
+Hi, I’m @joeymercia
+
 [![@joeymercias' Holopin board](https://holopin.io/api/user/board?user=joeymercia)](https://holopin.io/@joeymercia)
 
 <!---
